@@ -50,8 +50,27 @@ The clustering revealed distinct patient groupings that naturally separate highe
 * Matplotlib / Seaborn
 
 ## File in this Repository
-cluster_modelling.ipynb
+📁 [cluster_modelling.ipynb](notebooks/cluster_modelling.ipynb)
 
 ## 📄 Note
 This repository contains only my individual contribution (K-Means clustering) from a larger group machine learning project.
+## ## ⚙️ Installation & Setup
+1. Clone the repository:
+
+```bash
+git clone <repo-url>
+cd MLG382-CYO-PROJECT
+```
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the web app:
+
+```bash
+python src/web_app.py
+```
 
